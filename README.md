@@ -20,9 +20,9 @@ Personal developer portfolio website showcasing projects, skills, and experience
 3. Click the theme toggle (sun/moon) to switch between dark and light modes
 
 ## 📁 Project Structure
-├── index.html
-└── assets/
-└── (image)
+├── index.html<br>
+└── assets/<br>
+└── (image)<br>
 
 
 ## 🎨 Customization
